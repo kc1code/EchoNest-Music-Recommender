@@ -87,7 +87,7 @@ joblib
 ---
 
 ## 📸 Screenshot
-![App Screenshot]("C:\Users\HP\OneDrive\Desktop\Music Recommender\piccccc.png")
+![App Screenshot]("https://github.com/kc1code/EchoNest-Music-Recommender/blob/main/piccccc.png")
 
 ---
 
