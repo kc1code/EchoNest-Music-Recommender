@@ -87,7 +87,7 @@ joblib
 ---
 
 ## 📸 Screenshot
-![App Screenshot](<img width="947" alt="piccccc" src="https://github.com/user-attachments/assets/9f3ee2a4-9ba7-4aea-8484-d65b359e72c3" />)
+![App Screenshot]("C:\Users\HP\OneDrive\Desktop\Music Recommender\piccccc.png")
 
 ---
 
