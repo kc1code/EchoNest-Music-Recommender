@@ -1,4 +1,4 @@
-# 🎶 EchoNest - Music Recommender
+# 🪺 EchoNest - Music Recommender
 
 **EchoNest** is your personal music assistant, helping you discover songs you'll love based on lyrical and audio feature similarities!  
 Built with **Python**, **Streamlit**, and **Machine Learning**, this app offers instant, vibe-based song recommendations at your fingertips. 🎧
@@ -87,7 +87,7 @@ joblib
 ---
 
 ## 📸 Screenshot
-![App Screenshot](https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?fit=crop&w=1350&q=80)
+![App Screenshot](<img width="947" alt="piccccc" src="https://github.com/user-attachments/assets/9f3ee2a4-9ba7-4aea-8484-d65b359e72c3" />)
 
 ---
 
